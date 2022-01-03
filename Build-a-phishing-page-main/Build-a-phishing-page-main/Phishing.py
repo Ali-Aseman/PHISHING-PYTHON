@@ -60,7 +60,7 @@ print("""\n
         [6] Pornhub
         [7] Wordpress \n
             """)
-vorody = int(input("Enter the Number phishing : ")) 
+vorody = int(input("Enter the Number phishing >  ")) 
 
 for i in range(vorody): 
     if vorody == 1:
